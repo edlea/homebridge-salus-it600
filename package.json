@@ -1,6 +1,7 @@
 {
   "name": "homebridge-salus-it600",
-  "version": "1.0.0",
+  "displayName": "Salus iT600",
+  "version": "1.0.1",
   "description": "Homebridge plugin for Salus iT600 thermostats",
   "main": "index.js",
   "author": "Ed Lea",
@@ -8,8 +9,16 @@
   "dependencies": {
     "salus-it600": "^1.0.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edlea/homebridge-salus-it600.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edlea/homebridge-salus-it600/issues"
+  },
   "keywords": [
-    "homebridge-plugin"
+    "homebridge-plugin",
+    "salus-it600"
   ],
   "engines": {
     "homebridge": ">=0.2.5",
