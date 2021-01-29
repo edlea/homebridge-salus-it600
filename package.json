@@ -1,7 +1,7 @@
 {
   "name": "homebridge-salus-it600",
   "displayName": "Salus iT600",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Homebridge plugin for Salus iT600 thermostats",
   "main": "index.js",
   "author": "Ed Lea",
@@ -18,7 +18,8 @@
   },
   "keywords": [
     "homebridge-plugin",
-    "salus-it600"
+    "salus-it600",
+    "jg aura"
   ],
   "engines": {
     "homebridge": ">=0.2.5",
