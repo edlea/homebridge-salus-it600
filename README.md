@@ -1,6 +1,6 @@
-# Homebridge Salus iT600
+# Homebridge Salus iT600 and JG Aura
 
-Homebridge plugin for Salus iT600 and JG Aura thermostats.
+Homebridge plugin for Salus iT600 and John Guest Aura thermostats.
 
 Tested to "works for me" level.
 
